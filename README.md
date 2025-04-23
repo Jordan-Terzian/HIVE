@@ -3,7 +3,7 @@
 The Tutor Management Web Platform is a comprehensive solution designed to bridge the gap between students and tutors. It offers a seamless experience for students to find, schedule, and communicate with tutors, while also providing tutors with a platform to showcase their expertise and manage their appointments.
 
 # Team
-- Scrum Master: Jordan Terzian (z5362439)
+- Developer & Scrum Master: Jordan Terzian (z5362439)
 - Developer: Dev Chopra (z5363081)
 - Developer: Raf Hughes (z5349314)
 - Developer: Chao Hong He (z5207818)
