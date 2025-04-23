@@ -1,0 +1,32 @@
+Dear Diary - Dev Chopra (z5363081)
+
+Week 1:
+
+In our week 1 lab meeting, we set out tasks for each team member. 
+We split out the backend and frontend workloads and agreed to use Django on the backend
+and React on the frontend as frameworks. We also decided to use MongoDB for our database
+and host everything on Azure.
+
+Myself and Joe were responsible for the system architecture diagram and Joe started 
+while we all further analyzed the spec.
+
+Week 2:
+
+In week 2, I built upon Joe's addition to the system architecture diagram as we finalized our proposal.
+Myself and Jordan also sat down with the project coordinator Basem. Jordan organized this meeting and
+I sat down with him while he ran this meeting. I asked further questions on branding requirements and
+guidelines on future scalability for the app and the risks he wanted us to keep in mind. Next week
+we finalize our proposal and submit it.
+https://drive.google.com/file/d/1QtcvNMWlVOs8HyPnBSJo9nEGNu6Mp6YL/view?usp=sharing Here is a link to a 
+photo of me and Jordan in the client meeting.
+
+Week 3:
+
+In week 3, we finalized the system architecture and then submitted the project proposal. I then started
+working on the database schema for the backend which is now finalized and can be viewed at: https://drive.google.com/file/d/1PlMIwZAYaD8yGobWrlffseYvjzCunwAW/view?usp=sharing
+Next week, I'll be initalizing the backend and beginning work on the database and creating the backend project for us to start 
+writing our functionality.
+
+Week 4:
+
+I initialized the backend, wrote out the database schema in django and made the endpoints for login and register and got both student and tutor details. Next week I plan on writing out tests and working on tutor documents and profile pictures.

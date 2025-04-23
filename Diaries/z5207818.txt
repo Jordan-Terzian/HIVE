@@ -1,0 +1,25 @@
+COMP3900 - Chao Hong He Diary 
+
+Week 1
+
+During first meeting in lab, we delegated sections of the proposal report to different team members as follows
+
+Background: Jordan Terzian 
+User stories and sprints: Chao Hong He & Raf Hughes 
+StoryBoards: Jordan Terzian 
+System Architecture Diagram: Dev Chopra and Joe Jin 
+
+Before the end of the week Raf and I went on own ways to complete the User Stories and Sprints separately so that
+we can collate the information in our next meeting.
+
+Week 2 
+
+During week 2 I continued work on the User Stories and Sprints, and had a preliminary version completed by the thursday meeting.
+Raf and I came together with our own findings and started putting the information into our shared proposal report document. The
+section is in its preliminary completion. Coding section (front-end front matter) has been delegated and I have looked at how
+to approach this.
+
+Week 3
+
+Finalising content in the User Stories section of the proposal with Raf. Final proposal formatting to present information clearly and succinctly. Started looking at approach to frontend of web platform.
+

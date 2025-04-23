@@ -1,0 +1,40 @@
+COMP3900H11B Heads Project Diary - z5206674(Joe Jin)
+
+Week 1:
+
+During the first week, the roles of the different team members were decided, alongside
+
+with the relevant frameworks to be used to build the frontend and backend, as well as the database.
+
+
+Within the project proposal, Dev and I were tasked with the system architecture diagram component.
+
+Week 2:
+
+On the second week, I had started on the system architecture diagram as well as the relevant writeups 
+
+which were then picked up and finished by Dev after we had gone through and expanded upon week 1 on 
+
+how we were going to build the application.
+
+Week 3:
+
+This week was mainly spent on exploring the Django framework and implement authentication endpoints for the application.
+
+Week 4:
+
+Week 4 was just continuing on the work from week 3 with the authentication endpoints, with occational changes to the 
+
+database structure, and/or the fields on forms, as well as checking things using the frontend platform.
+
+Week 5:
+
+Week 6:
+
+Week 7:
+
+Week 8:
+
+Week 9:
+
+Week 10:

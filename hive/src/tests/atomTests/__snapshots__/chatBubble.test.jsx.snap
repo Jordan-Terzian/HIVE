@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChatBubble Component Tests should match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-11i7foc"
+  >
+    <div
+      class="MuiBox-root css-1x1x1eb"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-d3wcwz-MuiTypography-root"
+      >
+        Hello
+      </p>
+      <span
+        class="MuiTypography-root MuiTypography-caption css-xyekd0-MuiTypography-root"
+      >
+        10:00 AM
+      </span>
+    </div>
+    <div
+      class="MuiBox-root css-1mugvbl"
+    >
+      <img
+        alt="John's profile"
+        src="url_to_pic"
+        style="width: 100%; height: 100%;"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

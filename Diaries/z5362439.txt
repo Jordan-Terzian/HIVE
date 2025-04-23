@@ -1,0 +1,80 @@
+
+COMP 3900 - Jordan Terzian Diary 
+
+Week 1
+
+During Week 1 we formed our group consisting of myself (Jordan Terzian), Dev Chopra, Raf Hughes, Joe Jin and Chao Hong He. We elected myself as scrum master and team lead and allocated the work for the proposal as follows:
+
+Background: Jordan Terzian 
+User stories and sprints: Chao Hong He & Raf Hughes 
+StoryBoards: Jordan Terzian 
+System Architecture Diagram: Dev Chopra and Joe Jin 
+
+Within this week I completed all of the background, and began the storyboards in Figma with aim to complete them by next Thursday (21/09/2023). 
+
+-----------------------------------------------------------------------------------------------------
+
+Week 2 
+
+During week 2 I continued work on the storyboards, showing them to the rest of the team for feedback of 21/09/2023. 
+
+I also organised all the team lead's into a discord chat so that we could form groups to meet with the client regarding the project's requirements. As of 21/09/2023, I have asked the client for a time that they are available but have not received a response as of yet. 
+
+So far, during this meeting I plan to ask the following questions.
+
+Do tutors need to search for tutors? 
+What important pages were you thinking 
+What do you have in mind for system admins 
+Should we make a payment portal? Or is messaging supposed to simulate payment via PayPal or other form of digital transactions? 
+
+Once I receive clarification on these elements I'll modify the storyboards and construct a definitive flow diagram, which should be all completed by 28/09/2023.
+
+In regards to my team, we are all working together well. Raf and Chao have seemed to essentially completed all of the user stories and mapping out the sprints, while Dev and Jo are now beginning work on the system architecture diagram now that the storyboards are essentially complete. 
+
+We had out meeting with the client Friday 22/09/2023 from 2:30 - 4 pm. 
+
+Answers to my questions included 
+
+1. No 
+2. What I already had (Working with children check, terms of service, etc) 
+3. System admins should manage reports and validate if tutors can use the platform 
+4. Payment Portal has yet to be specified, assume not for the time being 
+
+-----------------------------------------------------------------------------------------------------
+
+Week 3 
+
+This week was mainly finalising the proposal document, I arranged all of my storyboards into a logical flow diagram for the document, and then our group worked together during the tutorial to format the document. During this, we implemented feedback from our mentor, particularly regarding readability and the design of the title page. 
+
+I also set up the frontend branch of our repository and programmed the underlying structure of our front end, whilst also making a start on the settings screen for student, tutor and admin. Once the backend team completes the endpoints required for authentication, logging in, registering and editing profile details, Chao and I will start connecting it all together. In the meantime, I'll write component tests for the components I've made. 
+
+Ultimately, the team is following our sprint structure perfectly thus far. 
+
+-----------------------------------------------------------------------------------------------------
+
+Week 4 
+
+During this week I set up our frontend branch, completely coded our Settings stack, as well as the tests for the atoms, molecules and organisms that I made for these routes. Chao had mentioned that he was a bit rusty with the React framework, hence I assigned him the Auth stack as the register processes we designed uses the same components as settings, with an additional tutor/student selection screen and a login screen. This should allow him to be brought back up to speed by utilising code I've already written, whilst also having a few components and tests to write himself with the guidance of my previous work. 
+
+I'm hoping to begin connecting the frontend and backend together from Sunday, this should give me ample time to also write further tests for components such as our navBar and settingsNavBar, as these components conditionally change based on whether a user is an admin, tutor or student. As such, these components will need to be altered when the backend and database is operational. 
+
+Overall, this week was successful, I have no concerns thus far and look forward to seeing how the rest of progressive demo A pans out. 
+
+
+------------------------------------------------------------------------------------------------
+
+Week 5 
+
+This week was rough. Essentially what happened was Chao left his part of the frontend to 2 days before the due date, my understanding is he overestimated his React framework ability, and as such I had to fix all of the screens he made, and connect his endpoints, as well as my own. 
+
+This meant I essentially had 2 days to build the entire rest of the frontend by myself and organise all the data and its flow through the system to communicate with the backend. To make matters worse, there were mistakes on the backend, which made connecting the tutor logic incredibly difficult and time consuming. 
+
+As of 12/10/2023 I didn't sleep and stayed up the whole night fixing/connecting. Luckily, Dev Chopra and Jo Jin were nice enough to stay up from 4:30 am with me to fix the backends mistakes so I could connect it properly. 
+
+We did manage to get all but 1 user story done, whereby the user story relating to tutor document upload was made in the backend and frontend, just not connected, hence it was half done. 
+
+I'm hoping that the next progressive demo goes much smoother and this serves as a wake-up call for the group members that left their parts till the last minute. 
+
+I plan on sending a video to the client over the weekend once I polish up the code. 
+
+

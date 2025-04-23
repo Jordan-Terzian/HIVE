@@ -1,0 +1,28 @@
+Raf Hughes (z5349314) COMP3900H11B Heads Diary
+
+Week 1 Entry:
+As a group we selected our project, delegated tasks and began work on our proposal document. I alongside two other group members would work on the
+backend fuctionality, while the remainder of the group would handle the front-end. We elected our scrum-master (Jordan). I was assigned to work on the 
+user stories and sprints section.
+Week 2 Entry:
+During this week, I worked on developing the user stories based on the requirements document and progressive demo section for the proposal, set up the Jira and assigned stories to their respective sprints. I also conversered wit hthe rest of the group to make furhter adjustments after our scrum leader's meeting with  the client
+Week 3 Entry:
+As a group, we finialized the details and formatting of the proposal and submitted it in the lab. We then furhter confirmed our responsibilities moving forward. As the backend team, we delegated tasks. I was resposnbile for implementing functionality for tutor profiles including their specific professional details and document management
+Week 4 Entry:
+This was the first proper work of development. Personally, it proved quite challaenging as the group deicded on an API framework (Django Rest Framework) that I was and am still quite unfamiliar with. Most of my time was spent understanding the base code provided by Dev and learning how to use Django effectively to implemented what was necessary. I watched tutorials online and read through the documentation to hopefully familiarize mself. It took a while but near the end of the week I was able to begin implementing my part 
+Week 5 Entry
+This week I focused further on my portions fo the back-end, like last week, it proved to be challenging as my lack of expereince and comfort with the library made it difficult to effectively and efficiently write functional code. However, I continued to learn and familiarize myself with the framework and step-by-step 
+implmented my parts of the project and test them.
+
+However, there were some issues with my implementation which were correcte by my group members. I have since been notified of what I did incorrectly and how to avoid it for future sprints. Additionally, I began reading documentation relvant to the featurse I need to implement in the second progressive demonstration. 
+
+I have more confidence moving forward and hope that I can be more effective in the coming weeks .
+Week 6 Entry 
+
+Week 7 Entry:
+
+Week 8 Entry:
+
+Week 9 Entry:
+
+Week 10 Entry:
